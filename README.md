@@ -7,7 +7,7 @@ Team of 5. My role: ER diagram design.
 An ER diagram for a food-delivery app (LINEMAN) showing how its data is organized.
 
 ## ER Diagram
-![ER diagram](er-diagram.png)
+![ER diagram](Lineman-หน้า-1.drawio (2))
 
 ## What I did
 - Designed the ER diagram in draw.io
